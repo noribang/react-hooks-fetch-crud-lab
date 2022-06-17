@@ -1,5 +1,6 @@
 import React from "react";
 
+/* PASS PAGE SET STATE AS PROPS. */
 function AdminNavBar({ onChangePage }) {
   return (
     <nav>
